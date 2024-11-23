@@ -7,7 +7,7 @@
     <br>
 </p>
 
-### About
+### About ℹ️
 
 Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Management for `*Unix` Systems with [Thousands of Statically Compiled Binaries](https://github.com/Azathothas/Toolpacks), [Portable Packages](https://github.com/pkgforge/soarpkgs) like [AppImage & More](https://github.com/pkgforge/pkgcache) and a [Package Manager written in Blazingly 🚀🚀 Fast 🦀 Rust](https://github.com/pkgforge/soar)
 
@@ -24,7 +24,7 @@ Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Manag
   - Join the [Discussion at Telegram](https://t.me/official_loonix/63949): https://t.me/official_loonix/63949
 
 
-### Sub Organizations
+### Sub Organizations 🏢
   - [PkgForge-Dev](https://github.com/pkgforge-dev): This ORG hosts @pkgforge's Official Developers' Repos
   - [PkgForge-Community](https://github.com/pkgforge-community): This ORG hosts Community Repos, Projects & their Dependencies for @pkgforge
 
