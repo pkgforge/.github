@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/pkgforge/soar">
-        <img src="https://github.com/user-attachments/assets/220ce7b3-55b3-496e-b3b8-2556123193a2" width="256">
+        <img src="https://github.com/user-attachments/assets/680eb489-d972-429c-b144-8b68c5048c3e" width="256">
     </a>
     <br>
     <b><strong><a href="https://github.com/pkgforge/soar">Package Forge</a></strong></b>
