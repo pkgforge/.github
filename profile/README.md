@@ -27,6 +27,7 @@ Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Manag
 ### Sub Organizations 🏢
   - [PkgForge-Dev](https://github.com/pkgforge-dev): This ORG hosts @pkgforge's Official Developers' Repos
   - [PkgForge-Community](https://github.com/pkgforge-community): This ORG hosts Community Repos, Projects & their Dependencies for @pkgforge
+  - [PkgForge-Security](https://github.com/pkgforge-security): This ORG hosts Official Security Tools & Research
 
 
 ### [**Community 💬**](https://t.me/official_loonix/63949)
