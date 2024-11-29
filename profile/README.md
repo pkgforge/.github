@@ -3,11 +3,12 @@
         <img src="https://github.com/user-attachments/assets/680eb489-d972-429c-b144-8b68c5048c3e" width="256">
     </a>
     <br>
-    <b><strong><a href="https://github.com/pkgforge/soar">Package Forge</a></strong></b>
+    <b><strong><a href="https://docs.pkgforge.dev/">Package Forge</a></strong></b>
     <br>
+
 </p>
 
-### About ℹ️
+### [About ℹ️](https://docs.pkgforge.dev/)
 [doc-shield]: https://img.shields.io/badge/docs.pkgforge.dev-blue
 [doc-url]: https://docs.pkgforge.dev/
 [![Documentation][doc-shield]][doc-url]<br>
@@ -17,6 +18,8 @@ Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Manag
 
 - Star ⭐ & Check our core Projects:
   - [Soar](https://github.com/pkgforge/soar): Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
+  > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif" alt="soar-list"></a><br>
+  >
   - [SoarPkgs](https://github.com/pkgforge/soarpkgs): Official (`pkgforge-community`) Repo ⚙️ containing Soar Build ([`.SBUILD`](https://github.com/pkgforge/soarpkgs/blob/main/SBUILD_SPEC.md)) 📦📀 Recipes to Build, Install & Integrate Everything
   - [Toolpacks](https://github.com/Azathothas/Toolpacks): Official (`pkgforge-edge`) Repo 📦 & The Largest Collection of Pre-Compiled (+ UPXed) `*Unix` Static Binaries
   - [PkgCache](https://github.com/pkgforge/pkgcache): Official (`pkgforge-edge`) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage]
