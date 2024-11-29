@@ -8,7 +8,9 @@
 </p>
 
 ### About ℹ️
-
+[doc-shield]: https://img.shields.io/badge/docs.pkgforge.dev-blue
+[doc-url]: https://docs.pkgforge.dev/
+[![Documentation][doc-shield]][doc-url]<br>
 Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Management for `*Unix` Systems with [Thousands of Statically Compiled Binaries](https://github.com/Azathothas/Toolpacks), [Portable Packages](https://github.com/pkgforge/soarpkgs) like [AppImage & More](https://github.com/pkgforge/pkgcache) and a [Package Manager written in Blazingly 🚀🚀 Fast 🦀 Rust](https://github.com/pkgforge/soar)
 
 ### Cool! How Can I participate, help & Contribute?
