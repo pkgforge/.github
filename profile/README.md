@@ -18,7 +18,7 @@ Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Manag
 
 - Star ⭐ & Check our core Projects:
   - [Soar](https://github.com/pkgforge/soar): Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
-  > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif" alt="soar-list"></a><br>
+  > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif?tmp.9kKhriKLcy=tmp.qxLiv67iiV" alt="soar-list"></a><br>
   >
   - [SoarPkgs](https://github.com/pkgforge/soarpkgs): Official (`pkgforge-community`) Repo ⚙️ containing Soar Build ([`.SBUILD`](https://github.com/pkgforge/soarpkgs/blob/main/SBUILD_SPEC.md)) 📦📀 Recipes to Build, Install & Integrate Everything
   - [Toolpacks](https://github.com/Azathothas/Toolpacks): Official (`pkgforge-edge`) Repo 📦 & The Largest Collection of Pre-Compiled (+ UPXed) `*Unix` Static Binaries
