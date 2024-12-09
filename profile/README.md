@@ -26,9 +26,7 @@ Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Manag
   - [BinCache](https://github.com/pkgforge/bincache): Official ([`pkgforge-stable`](https://docs.pkgforge.dev/repositories/pkgforge-stable)) Repo 📀, [Importing & SnapShotting](https://github.com/Azathothas/Toolpacks-BinCache-Importer) [Toolpacks](https://huggingface.co/datasets/pkgforge/bincache) & [PkgCache](https://huggingface.co/datasets/pkgforge/pkgcache) Periodically.
   - [SBuilder](https://github.com/pkgforge/sbuilder): Utilities for [Linting and Building](https://docs.pkgforge.dev/sbuild/instructions) [`.SBUILD`](https://docs.pkgforge.dev/sbuild/introduction) [Packages](https://github.com/pkgforge/soarpkgs)
   - [Squishy-rs](https://github.com/pkgforge/squishy-rs): Convenient high level Library & CLI for reading SquashFS files in Rust
-  - Join the [Discussion at Telegram](https://t.me/official_loonix/63949): https://t.me/official_loonix/63949
-
-
+  - Join the [Discussion at Discord](https://discord.gg/djJUs48Zbu): [![Discord](https://img.shields.io/discord/1313385177703256064?logo=%235865F2&label=Discord)](https://discord.gg/djJUs48Zbu)
 ### Sub Organizations 🏢
   - [PkgForge-Dev](https://github.com/pkgforge-dev): This ORG hosts @pkgforge's Official Developers' Repos
   - [PkgForge-Community](https://github.com/pkgforge-community): This ORG hosts Community Repos, Projects & their Dependencies for @pkgforge
@@ -37,5 +35,3 @@ Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Manag
 
 ### [**Community 💬**](https://docs.pkgforge.dev/contact/chat)
   - <a href="https://discord.gg/djJUs48Zbu"><img src="https://github.com/user-attachments/assets/5a336d72-6342-4ca5-87a4-aa8a35277e2f" width="18" height="18"><code>PkgForge (<img src="https://github.com/user-attachments/assets/a08a20e6-1795-4ee6-87e6-12a8ab2a7da6" width="18" height="18">) Discord </code></a> `➼` [`https://discord.gg/djJUs48Zbu`](https://discord.gg/djJUs48Zbu)  
-  - <a href="https://matrix.to/#/#loonix:matrix.org"><img src="https://github.com/user-attachments/assets/1dcd4a64-2fec-4f4f-926a-e61313b6b646" width="18" height="18"><code>Loonix (<img src="https://github.com/user-attachments/assets/abc35eee-c9c9-4023-9035-d440b56cac4c" width="18" height="18">) Matrix </code></a> `➼` [`https://matrix.to/#/#loonix:matrix.org`](https://matrix.to/#/#loonix:matrix.org)
-  - <a href="https://t.me/official_loonix/63949"><img src="https://github.com/user-attachments/assets/2edc90b9-606e-4bfc-89f3-2a758b2f0377" width="18" height="18"><code>Loonix (<img src="https://github.com/user-attachments/assets/abc35eee-c9c9-4023-9035-d440b56cac4c" width="18" height="18">) Telegram</code></a> `➼` [`https://t.me/official_loonix/63949`](https://t.me/official_loonix/63949)
