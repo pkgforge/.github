@@ -12,12 +12,12 @@
 [doc-shield]: https://img.shields.io/badge/docs.pkgforge.dev-blue
 [doc-url]: https://docs.pkgforge.dev/
 [![Documentation][doc-shield]][doc-url]<br>
-Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Management for `*Unix` Systems with [Thousands of Statically Compiled Binaries](https://github.com/Azathothas/Toolpacks), [Portable Packages](https://github.com/pkgforge/soarpkgs) like [AppImage & More](https://github.com/pkgforge/pkgcache) and a [Package Manager written in Blazingly 🚀🚀 Fast 🦀 Rust](https://github.com/pkgforge/soar)
+Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Management for `*Unix` Systems with [Thousands of Statically Compiled Binaries](https://pkgs.pkgforge.dev), [Portable Packages](https://github.com/pkgforge/soarpkgs) like [AppImage & More](https://github.com/pkgforge/pkgcache) and a [Package Manager written in Blazingly 🚀🚀 Fast 🦀 Rust](https://github.com/pkgforge/soar)
 
 ### Cool! How Can I participate, help & Contribute?
 
 - Star ⭐ & Check our core Projects:
-  - [Soar](https://github.com/pkgforge/soar): Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
+  - [Soar](https://github.com/pkgforge/soar): The Modern, Bloat-Free Distro-Independent [Package Manager](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
   > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif?tmp.TcEwCp3rjU=tmp.WyChhsYSRx" alt="soar-list"></a><br>
   >
   - [SoarPkgs](https://github.com/pkgforge/soarpkgs): 📦📀 [Soar User Repository](https://docs.pkgforge.dev/repositories/soarpkgs) containing [`.SBUILD`](https://docs.pkgforge.dev/sbuild/introduction) for Making Linux Packaging truly Portable, Simple, and Distro-Independent
