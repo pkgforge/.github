@@ -40,7 +40,7 @@ jobs:
           set +x ; set +e
           #--------------#
           cd "${GITHUB_WORKSPACE}/main" && git pull origin main || git pull origin main --ff-only || git merge --no-ff -m "Merge & Sync"
-          find "${GITHUB_WORKSPACE}/main/profile" -type f -print0 | xargs -0 sed -i -E "s~(https://bin\.pkgforge\.dev/list\.gif)[^\"]*~\1?$(basename "$(mktemp -u)")=$(basename "$(mktemp -u)")~g"
+          find "${GITHUB_WORKSPACE}/main/profile" -type f -print0 | xargs -0 sed -i -E "s~(https://soar\.pkgforge\.dev/gif)[^\"]*~\1?$(basename "$(mktemp -u)")=$(basename "$(mktemp -u)")~g"
         continue-on-error: true
 
       - uses: stefanzweifel/git-auto-commit-action@v5
