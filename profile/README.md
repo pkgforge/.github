@@ -18,7 +18,7 @@ Welcome to [Package Forge](https://github.com/pkgforge), Improving Package Manag
 
 - Star ⭐ & Check our core Projects:
   - [Soar](https://github.com/pkgforge/soar): The Modern, Bloat-Free Distro-Independent [Package Manager](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
-  > <a href="https://github.com/pkgforge/soar"><img src="https://soar.pkgforge.dev/gif?tmp.V66NjN8il9=tmp.d2M16eOLg8" alt="soar-list"></a><br>
+  > <a href="https://github.com/pkgforge/soar"><img src="https://soar.pkgforge.dev/gif?tmp.UImdtiMWqn=tmp.x2JBCMVSzJ" alt="soar-list"></a><br>
   >
   - [SoarPkgs](https://github.com/pkgforge/soarpkgs): 📦📀 [Soar User Repository](https://docs.pkgforge.dev/repositories/soarpkgs) containing [`.SBUILD`](https://docs.pkgforge.dev/sbuild/introduction) for Making Linux Packaging truly Portable, Simple, and Distro-Independent
   - [BinCache](https://github.com/pkgforge/bincache): 📦 The Largest Collection of [Pre-Compiled Linux Static Binaries](https://pkgs.pkgforge.dev), used as the primary [Binary cache](https://docs.pkgforge.dev/repositories/bincache) for Soar
