@@ -43,7 +43,7 @@ jobs:
           find "${GITHUB_WORKSPACE}/main/profile" -type f -print0 | xargs -0 sed -i -E "s~(https://soar\.pkgforge\.dev/gif)[^\"]*~\1?$(basename "$(mktemp -u)")=$(basename "$(mktemp -u)")~g"
         continue-on-error: true
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           repository: ./main        
           commit_user_name: Azathothas
