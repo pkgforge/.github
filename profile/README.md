@@ -54,6 +54,23 @@ Most of what we need is small and self-contained. Pick whichever fits what you f
 - **Find a missing icon.** Plenty of packages in [aeris-metadata](https://github.com/pkgforge/aeris-metadata) still have none, and tracking one down in the project's own repository takes a couple of minutes. Every one is checked before it ships.
 - **Tell us what broke.** Bug reports on the repo it happened in are worth more than a star.
 
+---
+
+## AI Policy
+
+AI-assisted contributions are welcome. We do not ask what wrote your patch, and the answer is not held against you. What matters is whether it is correct, whether you understand it, and whether you ran it. That is the same standard a hand-written patch meets.
+
+It does rule out four things:
+
+- **Read what you send.** A pull request you have not reviewed, cannot explain, and did not test is not a contribution. Volume does not substitute for any of the three.
+- **Do not open issues you have not reproduced.** A generated bug report costs more time than a bad patch, because the behaviour it describes may never have happened.
+- **Do not send generated security reports.** A plausible vulnerability that does not exist takes attention away from one that does. Report what you have confirmed, through [SECURITY.md](https://github.com/pkgforge/soarpkgs/blob/main/SECURITY.md).
+- **Never invent a URL, a hash, or a version.** In [soarpkgs](https://github.com/pkgforge/soarpkgs) every one of those is checked against the real artifact, so a guessed value fails `sbuild validate` rather than shipping. Run the tooling first and it will tell you what it would tell us.
+
+None of this is specific to AI, and we would ask it of anyone. AI is just what made it cheap to produce work that skipped all four, which is the only reason it needs saying.
+
+---
+
 ### Community
 
 Join the conversation on Discord:
@@ -61,4 +78,4 @@ Join the conversation on Discord:
 <a href="https://discord.gg/djJUs48Zbu">
     <img src="https://github.com/user-attachments/assets/5a336d72-6342-4ca5-87a4-aa8a35277e2f" width="18" height="18">
     <strong>PkgForge Discord</strong>
-</a> — <code>https://discord.gg/djJUs48Zbu</code>
+</a> `➼` <code>https://discord.gg/djJUs48Zbu</code>
