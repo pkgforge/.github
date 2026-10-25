@@ -39,7 +39,7 @@
 | Organization | Purpose |
 |--------------|---------|
 | [PkgForge-Dev](https://github.com/pkgforge-dev) | Portable builds, mostly AppImages, for software that ships none of its own. One repository per project, and soarpkgs pins what they release like any other upstream. |
-| [PkgForge-Security](https://github.com/pkgforge-security) | Security tools and research. |
+| [PkgForge-Apps](https://github.com/pkgforge-apps) | Lightweight native desktop apps. |
 
 ---
 
