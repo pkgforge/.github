@@ -1,9 +1,8 @@
 <p align="center">
-    <a href="https://github.com/pkgforge/soar">
-        <img src="https://github.com/user-attachments/assets/680eb489-d972-429c-b144-8b68c5048c3e" width="256">
-    </a>
-    <br>
-    <b><a href="https://github.com/pkgforge">Package Forge</a></b>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pkgforge/.github/main/profile/assets/pkgforge-lockup-dark.svg">
+        <img src="https://raw.githubusercontent.com/pkgforge/.github/main/profile/assets/pkgforge-lockup-light.svg" alt="pkgforge" width="360">
+    </picture>
 </p>
 
 ---

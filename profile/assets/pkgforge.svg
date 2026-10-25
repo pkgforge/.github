@@ -1,41 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <defs>
-    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#7dd3fc;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:1"/>
-    </linearGradient>
-    <linearGradient id="wingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background elements -->
-  <circle cx="100" cy="100" r="90" fill="url(#skyGradient)"/>
-
-  <!-- Dynamic swoosh elements -->
-  <path d="M20 100 C40 80, 80 70, 120 90 S160 110, 180 90" stroke="#38bdf8" stroke-width="8" fill="none" stroke-linecap="round"/>
- <path d="M25 120 C45 100, 85 90, 125 110 S165 130, 175 110" stroke-dasharray="4,4" stroke="#0284c7" stroke-width="6" fill="none" stroke-linecap="round"/>
-
-  <!-- Main package body -->
-  <path d="M55 105 L100 135 L145 105 L100 75 Z" fill="#1e40af"/>
-
-  <!-- Wing elements -->
-  <path d="M100 75 L145 105 C125 55, 75 55, 55 105 Z" fill="url(#wingGradient)"/>
-
-  <!-- Abstract bird elements -->
-  <path d="M80 80 C100 45, 120 45, 140 80" stroke="#f472b6" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <path d="M85 70 C100 45, 115 45, 135 70" stroke="#0ea5e9" stroke-width="8" fill="none" stroke-linecap="round"/>
-
-  <!-- Decorative accents -->
-  <circle cx="70" cy="90" r="4" fill="#f472b6"/>
-  <circle cx="130" cy="90" r="4" fill="#f472b6"/>
-
-  <!-- Speed lines -->
-  <path d="M45 85 L65 80" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-  <path d="M135 80 L155 85" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-  <path d="M40 100 L60 95" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-  <path d="M140 95 L160 100" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#242A33"/>
+  <g transform="translate(235.3 370.2) scale(1.3165)"><path d="M-77.2 -29.4 66.6 -64.5 125.4 -4.3 -18.4 30.8Z" fill="#E4E8ED"/><path d="M-18.4 72.4 125.4 37.3 125.4 -4.3 -18.4 30.8Z" fill="#98A2AF"/><path d="M-77.2 12.1 -18.4 72.4 -18.4 30.8 -77.2 -29.4Z" fill="#5E6875"/><path d="M-49.4 -135.2 49.4 -159.3 97.7 -109.8 -1.2 -85.7Z" fill="#FFA066"/><path d="M-1.2 9.5 97.7 -14.6 97.7 -109.8 -1.2 -85.7Z" fill="#FF6A1A"/><path d="M-49.4 -39.9 -1.2 9.5 -1.2 -85.7 -49.4 -135.2Z" fill="#B8460C"/><path d="M-141.3 -139.3 -55.7 -190.8 100.7 -228.9 148.9 -179.5 -7.5 -141.4Z" fill="#E4E8ED"/><path d="M-7.5 -141.4 148.9 -179.5 148.9 -150.1 109.3 -123.1 -7.5 -94.6Z" fill="#98A2AF"/><path d="M-7.5 -94.6 -7.5 -141.4 -141.3 -139.3Z" fill="#98A2AF"/><g transform="matrix(0.8988 -0.2192 0.0000 0.8660 -1.2 -85.7)"><rect x="43" y="0" width="24" height="110" fill="#B8460C"/></g></g>
 </svg>
